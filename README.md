@@ -20,6 +20,7 @@ Java-Spring Framework 4.2.4에서 어노테이션을 사용하지 않고 트랜�
 ##### (By utilizing Spring JDBC of Spring-Framework, transaction was implemented without using annotation (@Transactional).)
 
 ### 2. 시연(Demonstration)
+##### 1. Java, Spring Framework 4.2.4,  Spring JDBC, No - Annotation 방식, https://youtu.be/7yP3UGbP4yI, Accessed by 2020-10-10, Last Modified 2020-10-10.
 
 ### 3. 참고자료(Reference)
 ##### 1. Maven Repository: Search/Browse/Explore, https://mvnrepository.com/, Accessed by 2020-09-24, Last Modified .
